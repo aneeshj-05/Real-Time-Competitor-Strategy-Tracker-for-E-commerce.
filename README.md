@@ -1,4 +1,4 @@
-# Infosys-internship_Aneesh-Jantikar
+
 
 Author: Aneesh Jantikar (aneeshj-05)  
 Last updated: 2026-01-13
